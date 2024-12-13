@@ -1,8 +1,3 @@
-# 6.100A Fall 2024
-# Problem Set 5A
-# Name: <Joseph Ortega>
-# Collaborators: <Rena Wang>
-
 import math
 
 class Entity(object):
